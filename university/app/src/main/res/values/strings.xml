@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Student Application</string>
+    <string name="nav_header_subtitle">student@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Gestion des filieres</string>
+    <string name="menu_gallery">Gestion des roles</string>
+    <string name="menu_slideshow">Gestion des etudiants</string>
+    <string name="menu_slide">Gestion des etudiants par filiere</string>
+</resources>
